@@ -1,0 +1,39 @@
+div { text-align: left}
+
+body {
+  background-color: #a3d5d3;
+  background-image: url(Rock.jpg);
+  background-size: cover;
+  color: black;
+}
+.mono {font-family: monospace
+}
+#description {
+  color: hotpink;
+  font-size: 18px;
+}
+#summary {
+  color: black;
+  font-size: 24px;
+}
+
+#oknow {
+  color: hotpink;
+  font-size: 24px;
+}
+
+a {
+  color: lightblue;
+}
+
+
+.nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 150px;
+  padding-bottom: 16px;
+}
